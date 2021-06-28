@@ -1,6 +1,6 @@
 package com.mondayReview_02;
 
-public class A_ComparisonOperators {
+public class A2_ComparisonOperators {
    public static void main(String[] args) {
       // comparison operators = boolean expression
       //    <     <=    >     >=    ==    !=

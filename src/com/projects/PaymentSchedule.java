@@ -1,4 +1,4 @@
-package com.exercises;
+package com.projects;
 
 public class PaymentSchedule {
    public static final byte MONTHS_IN_YEAR = 12;

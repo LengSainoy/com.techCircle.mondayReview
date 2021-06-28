@@ -1,6 +1,6 @@
-package com.mondayReview_01;
+package com.mondayReview_02;
 
-public class M_MathClass {
+public class A0_MathClass {
    public static void main(String[] args) {
       int result = (int)Math.ceil(1.1);
       int n = (int)Math.floor(1.1);
